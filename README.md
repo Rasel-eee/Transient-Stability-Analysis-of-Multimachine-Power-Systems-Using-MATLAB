@@ -1,6 +1,6 @@
-# Transient-Stability-Analysis-of-Multimachine-Power-Systems-Using-MATLAB
-This study analyzes transient stability of multimachine power systems using MATLAB by comparing Modified Euler and Runge–Kutta methods. Results show RK4 provides higher accuracy and stability, while Modified Euler is simpler but less reliable for precise stability assessment.
-Title: Transient Stability Analysis of Multimachine Power Systems Using MATLAB: A Comparative Study of Modified Euler and Runge–Kutta Methods
+#  Transient Stability Analysis of Multimachine Power Systems Using MATLAB: A Comparative Study of Modified Euler and Runge–Kutta Methods
+
+ 
 
 Transient stability is a fundamental requirement for the secure operation of power systems, ensuring that all generators remain in synchronism following large disturbances such as faults, sudden load variations, or line outages. This study presents a detailed transient stability analysis of a multimachine power system using MATLAB, with emphasis on solving the nonlinear swing equations through numerical integration techniques.
 
